@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yazı Tura</string>
+    <string name="title">Yazı / Tura</string>
+    <string name="coin">Para</string>
+    <string name="flip">FIRLAT</string>
+    <string name="theme_toggle">Tema</string>
+    <string name="settings">Ayarlar</string>
+    <string name="hint">İpucu: Boşluğa dokun veya telefonu salla</string>
+    <string name="history">Geçmiş</string>
+    <string name="stats">İstatistik</string>
+    <string name="result_prefix">Sonuç: %1$s</string>
+    <string name="heads">Yazı</string>
+    <string name="tails">Tura</string>
+    <string name="theme_toast_dark">Koyu tema</string>
+    <string name="theme_toast_light">Açık tema</string>
+    <string name="stat_line">Toplam: %1$d • Yazı: %2$d • Tura: %3$d • Seri: %4$d %5$s</string>
+    <string name="streak_heads">Yazı</string>
+    <string name="streak_tails">Tura</string>
+    <string name="setting_sound">Ses</string>
+    <string name="setting_vibration">Titreşim</string>
+    <string name="setting_shake">Salla ile at</string>
+    <string name="setting_speed_label">Atış hızı</string>
+</resources>
